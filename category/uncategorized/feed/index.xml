@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; yesmamacan</title>
-	<atom:link href="/ankithjoseph.github.io/yesmamacan/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/ankithjoseph.github.io/yesmamacan/</link>
+	<atom:link href="https://raw.githubusercontent.com/ankithjoseph/yesmamacan/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://raw.githubusercontent.com/ankithjoseph/yesmamacan/</link>
 	<description></description>
 	<lastBuildDate>Thu, 25 May 2023 09:33:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/ankithjoseph.github.io/yesmamacan/hello-world/</link>
-					<comments>/ankithjoseph.github.io/yesmamacan/hello-world/#comments</comments>
+		<link>https://raw.githubusercontent.com/ankithjoseph/yesmamacan/hello-world/</link>
+					<comments>https://raw.githubusercontent.com/ankithjoseph/yesmamacan/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[ankeyit@gmail.com]]></dc:creator>
 		<pubDate>Thu, 25 May 2023 09:33:16 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/ankithjoseph.github.io/yesmamacan/?p=1</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ankithjoseph/yesmamacan/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/ankithjoseph.github.io/yesmamacan/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://raw.githubusercontent.com/ankithjoseph/yesmamacan/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
